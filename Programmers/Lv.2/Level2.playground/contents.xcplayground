@@ -3,9 +3,11 @@
     <pages>
         <page name='makeMin'/>
         <page name='Carpet_BruteForce'/>
-        <page name='TargetNumber_DFSBFS'/>
         <page name='CorrectBracket'/>
         <page name='BinaryConversion'/>
         <page name='NextBigNumer'/>
+        <page name='CandidateKey'/>
+        <page name='DFSBFS'/>
+        <page name='StackQueue'/>
     </pages>
 </playground>
